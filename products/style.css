@@ -9,13 +9,15 @@
 @font-face {
     font-family: 'Kg';
     src: URL(../assets/KGLovinOnMe.ttf) format('truetype');
+    font-family: 'Aller';
+    src: URL(../assets/aller.ttf) format('truetype');
 }
 
 .container li {
     margin: auto auto 7px auto;
     color: var(--background);
     list-style: none;
-    font-family: cursive;
+    font-family: aller;
     letter-spacing: 2px;
     font-size: 1em;
 }
