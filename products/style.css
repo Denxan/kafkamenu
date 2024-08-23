@@ -10,7 +10,7 @@
     font-family: 'Kg';
     src: URL(../assets/KGLovinOnMe.ttf) format('truetype');
     font-family: 'Aller';
-    src: URL(../assets/aller.ttf) format('truetype');
+    src: URL(../aller.ttf) format('truetype');
 }
 
 .container li {
